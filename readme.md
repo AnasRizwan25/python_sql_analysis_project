@@ -14,7 +14,7 @@ This project is an end-to-end data analytics pipeline built using Python and SQL
 
 ## Tech Stack
 
-- Python 3.x: Data processing with Pandas and NumPy.
+- Python: Data processing with Pandas and NumPy.
 - SQL: Data storage and querying.
 - Kaggle API: For automated dataset retrieval.
 
