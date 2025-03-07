@@ -1,4 +1,4 @@
-# Data Analytics Pipeline
+# Data Analytics Project
 
 ![Kaggle, Python, SQL flow diagram](./img/data%20analysis%20pic.PNG)
 
